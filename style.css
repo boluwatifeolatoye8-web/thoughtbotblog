@@ -10,6 +10,7 @@ body{
     padding-right: 380px;
    color:#FAF5F9;
    font-family: Arial, Helvetica, sans-serif;
+   width: 50px auto;
 }
 .header{
     margin-top: 120px;
